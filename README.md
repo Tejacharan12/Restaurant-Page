@@ -3,6 +3,5 @@
 - Used bootstrap tools & own styles.
 - Implemented responsive template.
 
-👉🏻 [Demo](https://yaninatrekhleb.github.io/restaurant-website/)
+👉🏻 [Demo](https://tejacharan12.github.io/Restaurant-Page/)
 
-![Demo](img/demo.gif)
